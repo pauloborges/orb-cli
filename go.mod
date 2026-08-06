@@ -4,7 +4,7 @@ go 1.26.5
 
 require (
 	github.com/modelcontextprotocol/go-sdk v1.7.0
-	github.com/orbcorp/orb-go v1.105.0
+	github.com/orbcorp/orb-go v1.109.0
 	github.com/spf13/cobra v1.10.2
 )
 
