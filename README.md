@@ -5,8 +5,10 @@ local, read-only MCP server.
 
 ## Development
 
-This repository has a Nix flake. It provides the Go development environment
-when you use Nix. You can also use a compatible Go installation.
+This repository has a [devenv](https://devenv.sh) environment. It provides the
+Go development environment.
+
+You can also use a compatible Go installation.
 
 ## Installation
 
